@@ -1,0 +1,16 @@
+ul{
+    width:262px;
+    border: 1px solid gray;
+    margin-top: -5px;
+}
+input{
+    width: 300px;
+    position: relative;
+}
+ul li{
+    list-style-type: none;
+    width: 200px;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+ 
+}
